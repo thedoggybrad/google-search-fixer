@@ -5,7 +5,7 @@
 // Override the user-agent HTTP headers sent to Google Search
 
 // Keep in sync with include_globs in manifest.json
-const GoogleSearchTLDs = /^https?:\/\/(www|maps)\.google\./;
+const GoogleSearchTLDs = /^https?:\/\/(www|maps|images|ipv4|ipv6)\.google\./;
 
 const GoogleMatchPatterns = browser.runtime.getManifest().content_scripts[0].matches;
 
