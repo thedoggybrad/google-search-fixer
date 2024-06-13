@@ -231,7 +231,9 @@
       "*://*.google.co.zm/*",
       "*://*.google.co.zw/*",
       "*://*.google.cat/*",
-      "*://*.google.ng/*"
+      "*://*.google.ng/*",
+      "*://*ipv4.google.com/*",
+      "*://*ipv6.google.com/*"
     ]
   }]
 }
