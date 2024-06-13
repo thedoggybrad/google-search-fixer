@@ -1,11 +1,11 @@
 {
   "addonName": {
-    "message": "Google Search Fixer"
+    "message": "Google Search Fixer Refreshed"
   },
   "addonDescription": {
-    "message": "Override the user-agent string presented to Google Search pages to receive the search experience shown to Chrome."
+    "message": "An improved refreshed version by TheDoggybrad, originally created by Thomas Wisniewski to override user-agent for Chrome-like Google Search experience."
   },
   "addonAuthorsList": {
-    "message": "Thomas Wisniewski <twisniewski@mozilla.com>"
+    "message": "TheDoggyBrad Software Labs"
   }
 }
